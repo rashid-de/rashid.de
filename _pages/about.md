@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Neuroal mechanisms and neuromodulation across disorders"
+title: "Neuronal mechanisms and neuromodulation across disorders"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,8 +15,5 @@ Growth through a bundle of boundaries
 ======
 Neurological, neurodegenerative, and neuropsychiatric disorders are much more complex than as traditionally categorised. Thus, my mission is to use the hardest approaces to discover neuromechanistic characteristics and to enhance neuromodulatory recoveries. 
 
-Hardest approach regarding experimemnt and analytical methods across disorders.
+Hardest approach regarding experimemnt and multidimensional analytical methods across disorders.
 
-
-Getting started
-======
