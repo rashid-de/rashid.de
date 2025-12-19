@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2025  Dr.rer.nat. in Neuropsychiatry, Philipps University of Marburg
+* 2017  M.Sc. in Biomedical Engineering, University of Luebeck
+* 2011  B.Sc. in Applied physics, electronics and communication engineering, Islamic University
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* 2022 - 2025: Scientific Employee
+  * Philipps University of Marburg
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
